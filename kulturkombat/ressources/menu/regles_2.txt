@@ -1,0 +1,26 @@
+ _____                _
+|  __ \              | |
+| |__) |  ___   __ _ | |  ___  ___
+|  _  /  / _ \ / _` || | / _ \/ __|
+| | \ \ |  __/| (_| || ||  __/\__ \
+|_|  \_\ \___| \__, ||_| \___||___/
+                __/ |
+               |___/
+
+
+Le Direct est un coup faible, pour prendre la température,
+Pour le réaliser, le joueur devra répondre à une question
+avec deux réponses possible.
+L'adversaire perd 1 PV.
+
+Le crochet est un coup plus puissant, il peut bien sonner votre adversaire,
+Pour le réaliser, le joueur devra répondre à une question
+avec quatre réponses possible.
+L'adversaire perd 2 PV.
+
+L'Uppercut est un coup surpuissant, il peut mettre K.O votre adversaire,
+Pour le réaliser, le joueur devra répondre à une question
+en tapant la réponse sans avoir de proposition.
+Attention, les noms propres ainsi que leurs arcticles sont en majuscule
+(ex : La Seine), toutes les autres réponses sont en minuscule.
+L'adversaire perd 4 PV.

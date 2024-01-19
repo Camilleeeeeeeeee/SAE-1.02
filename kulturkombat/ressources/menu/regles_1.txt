@@ -1,0 +1,18 @@
+ _____                _
+|  __ \              | |
+| |__) |  ___   __ _ | |  ___  ___
+|  _  /  / _ \ / _` || | / _ \/ __|
+| | \ \ |  __/| (_| || ||  __/\__ \
+|_|  \_\ \___| \__, ||_| \___||___/
+                __/ |
+               |___/
+
+
+KulturKombat est un jeu de combat en tour par tour
+où deux joueur vont s'affronter à l'aide de leurs
+connaissances et de trois coup :
+
+Le Direct, le Crochet, et l'Uppercut.
+
+Chaque joueur dispose de dix points de vie.
+Le joueur arrivé à court de vie le premier à perdu.

@@ -1,0 +1,12 @@
+ _____                           _                              _
+/  ___|                         | |                            | |
+\ `--.   ___   ___   _ __   ___ | |__    ___    __ _  _ __   __| |
+ `--. \ / __| / _ \ | '__| / _ \| '_ \  / _ \  / _` || '__| / _` |
+/\__/ /| (__ | (_) || |   |  __/| |_) || (_) || (_| || |   | (_| |
+\____/  \___| \___/ |_|    \___||_.__/  \___/  \__,_||_|    \__,_|
+
+Vous pouvez trier sur les différentes colonnes en appuyant sur l'indice correspondant.
+
+Pour revenir à la page d'acceuille appuyez sur 6.
+
+                1.Partiesjoués  2.Parties gagnée    3.Moy. direct   4.Moy.crochet   5.Moy. uppercut
